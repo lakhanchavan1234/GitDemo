@@ -1,0 +1,15 @@
+Self Introduction
+
+hey hii this is lakhan .i am having around 3+ years of experience into IT and its totally into QA.
+but i majorly invloved in Automation testing and also i am pretty much confirtable with manual testing 
+like writing the test cases and designing the test cases and bug life cycle ,test preparation and test planning.
+with respect Automation,having very good exposure on different automation tools and technology like selenium
+and very good knowledge in API testing by RestAssured.
+i am having very good exposure on designing the framework from scratch.
+and i am pretty much confirtable with different automation framework approaches like data driven and hybrid driven framework.
+and i am currently working with selenium webdriver component with java and pretty much confirtable with all the component of selenium.
+i have hands on experience with TDD framework like testNG
+and very good knowledge on BDD framework like cucumber.
+and i have very good exposure on CI CD tools like jenkins and very good exposure on build automation tools like Maven.
+and i am pretty much confirtable with designing the framework and designing the component of the framework end to end.
+
